@@ -10,15 +10,5 @@ Small repository setup to run through a demo of using Git Rebase for Merge Confl
 
 *The steps within this guide are all within an environment that was previously installed and covered in a previous video and guide.*
 
-## Section
-Text
-
-![image](img/lce/000.png)
-
-<img src="../img/lcs/000/.png">
-
-### Sub-section
-Text.
-
-
----
+### Python hello-world example (02/2025)
+Added hello-world example.
